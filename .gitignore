@@ -1,0 +1,17 @@
+# bundle.tar.gz: artefak make.fun bundle CLI, bukan source.
+bundle.tar.gz
+
+# /output/: hasil runtime main.py (entry.txt).
+/output/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Editor / OS noise
+.DS_Store
+*.swp
+*.swo
+*~
